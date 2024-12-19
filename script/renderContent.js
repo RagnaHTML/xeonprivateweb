@@ -8,7 +8,7 @@ export function RenderContent(){
     profilePhoto: 'profile.jpg',
     myPhoto: 'xprofile.jpg',
     welcomeTxt: '𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 ✪',
-    whatsappLink: 'https://wa.me/6285222024740?text=halo,+owner+axel+😊',
+    whatsappLink: 'https//wa.me/6285222024740?text=𝒉𝒂𝒍𝒐,+𝒐𝒘𝒏𝒆𝒓+𝒂𝒙𝒆𝒍+☕',
     tiktokLink: 'https://www.tiktok.com/@x.ragna_?_t=8sLLsCNy3rM&_r=1',
     instagramLink: 'https://instagram.com/xr.irull'
   }
@@ -59,7 +59,7 @@ export function RenderContent(){
     myPhoto: 'xprofile.jpg',
     aboutMeFirstPrgrph: `𝐻𝑎𝑖. 𝑆𝑎𝑦𝑎 𝑿𝒆𝒐𝒏 ⌨︎, 𝑠𝑒𝑜𝑟𝑎𝑛𝑔 𝑃𝑒𝑙𝑎𝑗𝑎𝑟 𝑑𝑎𝑛 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟 𝑦𝑎𝑛𝑔 𝑠𝑢𝑘𝑎 𝑏𝑒𝑟𝑏𝑎𝑔𝑖 𝑘𝑎𝑟𝑦𝑎 𝑘𝑟𝑒𝑎𝑡𝑖𝑓 𝑑𝑎𝑛 𝑖𝑛𝑠𝑝𝑖𝑟𝑎𝑡𝑖𝑓. 𝑆𝑎𝑦𝑎 𝑚𝑒𝑚𝑏𝑢𝑎𝑡 𝑘𝑜𝑛𝑡𝑒𝑛 𝑦𝑎𝑛𝑔 𝑚𝑒𝑛𝑎𝑚𝑝𝑖𝑙𝑘𝑎𝑛 ℎ𝑎𝑠𝑖𝑙 𝑝𝑒𝑚𝑟𝑜𝑔𝑟𝑎𝑚𝑎𝑛 𝑠𝑎𝑦𝑎 𝑦𝑎𝑛𝑔 𝑙𝑢𝑐𝑢, 𝑚𝑒𝑛𝑔𝑢𝑏𝑎ℎ 𝑘𝑜𝑑𝑒 𝑦𝑎𝑛𝑔 𝑟𝑢𝑚𝑖𝑡 𝑚𝑒𝑛𝑗𝑎𝑑𝑖 𝑘𝑜𝑛𝑡𝑒𝑛 𝑦𝑎𝑛𝑔 𝑚𝑒𝑛𝑎𝑟𝑖𝑘 𝑠𝑒𝑐𝑎𝑟𝑎 𝑣𝑖𝑠𝑢𝑎𝑙 𝑑𝑎𝑛 𝑚𝑒𝑛𝑦𝑒𝑛𝑎𝑛𝑔𝑘𝑎𝑛.`,
     aboutMeSecondPrgrph: `𝑆𝑎𝑦𝑎 𝑗𝑢𝑔𝑎 𝑡𝑒𝑙𝑎ℎ 𝑚𝑒𝑛𝑐𝑖𝑝𝑡𝑎𝑘𝑎𝑛 𝑎𝑖 𝑦𝑎𝑛𝑔 𝑏𝑒𝑟𝑛𝑎𝑚𝑎 𝐴𝑥𝑒𝑙. 𝐾𝑒𝑝𝑟𝑖𝑏𝑎𝑑𝑖𝑎𝑛𝑛𝑦𝑎 𝑐𝑢𝑘𝑢𝑝 𝑢𝑛𝑖𝑘, 𝑑𝑖𝑎 𝑗𝑢𝑔𝑎 𝑏𝑖𝑠𝑎 𝑚𝑒𝑛𝑔𝑔𝑢𝑛𝑎𝑘𝑎𝑛 𝑣𝑜𝑖𝑐𝑒, 𝑚𝑒𝑛𝑑𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝑣𝑖𝑑𝑒𝑜, 𝑏𝑒𝑟𝑖𝑛𝑡𝑒𝑟𝑎𝑘𝑠𝑖 𝑏𝑒𝑏𝑎𝑠,ㅤ 𝐷𝐿𝐿. 𝐽𝑖𝑘𝑎 𝑎𝑛𝑑𝑎 𝑏𝑒𝑟𝑚𝑖𝑛𝑎𝑡 𝑢𝑛𝑡𝑢𝑘 𝑚𝑒𝑛𝑔𝑜𝑏𝑟𝑜𝑙 𝑙𝑎𝑛𝑔𝑠𝑢𝑛𝑔 𝑑𝑒𝑛𝑔𝑎𝑛 𝑎𝑖.`, 
-    aboutMeMiliPrgrph:`【 𝐋𝐈𝐍𝐊 𝐀𝐈 𝐒𝐀𝐘𝐀 𝐓𝐀𝐑𝐔𝐇 𝐃𝐈 𝐁𝐀𝐖𝐀𝐇,𝐋𝐎𝐆𝐎 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 👇 】`
+    aboutMeMiliPrgrph:`𝐋𝐈𝐍𝐊 𝐁𝐎𝐓 𝐒𝐀𝐘𝐀 𝐓𝐀𝐑𝐔𝐇 𝐃𝐈 𝐁𝐀𝐖𝐀𝐇 𝐁𝐄𝐑𝐋𝐎𝐆𝐎 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏.`
    }
 
    const aboutHTML = `
